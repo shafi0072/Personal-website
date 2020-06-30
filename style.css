@@ -11,7 +11,7 @@ body{
     display: block;
 }
 h1{
-    color: #e43953;
+    color:#ff1772;
     font-weight: bold;
     font-size: 30px;
     margin-top: 0;
@@ -29,7 +29,7 @@ p{
 .button-design{
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(#e43953 , #e03650);
+    background-image: linear-gradient(#ff1772 , #ff1973);
     padding: 10px 20px;
     border-radius: 3px;
     
@@ -72,4 +72,68 @@ section{
     background-image: url(Images/biography-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+.Work{
+    color: black;
+    padding: 100px;
+    font-size: 40px;
+    text-align: center;
+}
+#projects{
+    width: 100%;
+    margin-left: 240px;
+    margin-bottom: 200px;
+}
+.all-images-form-projects{
+    width: 20%;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.BruceMoccy{
+    text-align: center;
+    font-size: 20px;
+}
+.Founder{
+    width: 100%;
+    text-align: center;
+}
+.Lorem-is-simply{
+    text-align: center;
+    color: rgb(54, 54, 54);
+}
+.email-para-color{
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    
+}
+.email-h1{
+    text-align: center;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+#Contract-Button{
+    background-image: linear-gradient(#ff1772 , #ff1973);
+    background-size: cover;
+    width: 700px;
+     border-radius: 5px;
+     margin: auto;
+     padding: 10px;
+     margin-top: 30px;
+     margin-bottom: 400px;
+}
+footer{
+    width: 100%;
+    position: relative;
+    top: 1000px;
+    text-align: center;
+    left: 300px;;
+}
+#Contract-Button:hover{
+    background-image: linear-gradient(#e43953 , #9a6d74);
+          
 }
