@@ -3,3 +3,46 @@ body{
     margin: 0;
     padding: 0;
 }
+.left-content{
+    width: 40%;
+    float: left;
+    margin-left: 20%;
+    margin-top: 100px;
+    display: block;
+}
+h1{
+    color: #e43953;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 0;
+}
+h3{
+    color: rgb(37, 37, 37);
+    font-size: 22px;
+    margin-bottom: 0;
+}
+p{
+    color: gray;
+    padding-bottom: 30px;
+    width: 70%;
+}
+.button-design{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#e43953 , #e03650);
+    padding: 10px 20px;
+    border-radius: 3px;
+    
+}
+.button-design:hover{
+    background-image: linear-gradient(#e43953 , #9a6d74);
+}
+.right-content{
+    width: 49%;
+    float: right;
+    margin-right: -173px;
+}
+img{
+    width: 50%;
+    
+}
