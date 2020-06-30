@@ -7,7 +7,7 @@ body{
     width: 40%;
     float: left;
     margin-left: 20%;
-    margin-top: 100px;
+    margin-top: 306px;
     display: block;
 }
 h1{
@@ -41,8 +41,35 @@ p{
     width: 49%;
     float: right;
     margin-right: -173px;
+    margin-top: 214px;
 }
 img{
     width: 50%;
     
+}
+section{
+    height: 970px;
+}
+#First-Section{
+    background-image: url(Images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.left-content2{
+    width: 49%;
+    float: left;
+    margin-left: 300px;
+    margin-top: 120px;
+}
+.right-content2{
+    width: 40%;
+    float: right;
+    margin-right: 2%;
+    margin-top: -481px;
+    display: block;
+}
+#secend-section{
+    background-image: url(Images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
